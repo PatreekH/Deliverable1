@@ -2,4 +2,4 @@ Inspiration:
 I've always found that simple games are the most fun. My inspiration behind this idea stems from my enjoyment of simple, easy to play games and passion for competitiveness. I have never attempted to build something like this and I can't think of a better way to put my skills to the test than to build one for my final project.
 
 Description:
-(insert app name here) is a fun, fast paced, free runner game that allows users to play solo and collect items and practice or compete in an intense heads up multiplayer. This easy to learn, easy to play game was built for any gamer that enjoys becoming the best of the best in our ranked multiplayer mode and/or also enjoys collecting items to showcase to the world.
+(insert app name here) is a fun, fast paced, free runner game that allows users to play solo, collect items and practice or compete in our intense heads up multiplayer. This easy to learn, easy to play game was built for any gamer that enjoys becoming the best of the best in our ranked multiplayer mode and/or also enjoys collecting items to showcase to the world.
